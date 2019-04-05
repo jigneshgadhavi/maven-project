@@ -1,3 +1,3 @@
 Hello, World!
 This is SCM !!
-Github hook
+Github hook done
