@@ -1,3 +1,3 @@
 Hello, World!
 This is SCM !!
-pipeline checking
+pipeline checking done
