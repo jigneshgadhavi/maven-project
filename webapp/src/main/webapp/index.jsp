@@ -1,3 +1,1 @@
-Hello, World!
-This is SCM !!
-pipeline checking
+Hello, World This is QA branch
