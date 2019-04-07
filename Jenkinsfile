@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ("Build") {
             steps {
-                Echo "This is Build Stage"
+                echo "This is Build Stage"
             }
         }
         stage ('Deploy-Dev'){
